@@ -1,6 +1,7 @@
 # Laboratory Work 5: Guide Questions
 
 *Here is my Google Colab:* [**Click Here!**](https://colab.research.google.com/drive/1DSn0nhjKM4GCtiDFARs4lHj9mjn7KbHN?usp=sharing)
+*Here is my Models:* [**Click Here!**](https://drive.google.com/drive/folders/1a97ms1qx1jijDnIMQBJmJzVqWPhxy5s6?usp=drive_link)
 
 
 ## Performance Comparison Table
