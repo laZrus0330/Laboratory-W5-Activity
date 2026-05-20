@@ -2,6 +2,22 @@
 
 *Here is my Google Colab:* [**Click Here!**](https://colab.research.google.com/drive/1DSn0nhjKM4GCtiDFARs4lHj9mjn7KbHN?usp=sharing)
 
+
+## Performance Comparison Table
+
+| Model | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC AUC |
+|-------|---|---|---|---|---|---|---|---|
+| **Pre-Trained Model 1 (MobileNetV2)** | | | | | | | | 0.991 |
+| **Pre-Trained Model 2 (Xception)** | | | | | | | | 0.986 |
+| **Pre-Trained Model 3 (DenseNet121)** | | | | | | | | 0.981 |
+| **Model from Teachable Machine** | | | | | | | | |
+| **Your 1st Model** | | | | | | | | |
+| **Your 2nd Model** | | | | | | | | |
+| **Enhancement** | | | | | | | | |
+| **Your 3rd Model - The Good Model** | | | | | | | | |
+ 
+---
+
 ## A. Model Performance
 
 **1. Which pre-trained model achieved the highest accuracy? Why?**
